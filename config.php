@@ -11,6 +11,5 @@ $db_name = $env['DB_NAME'];
 
     echo "$db_host, $db_user, $db_pass, $db_name";
     echo "$db_host, $db_user, $db_pass, $db_name";
-        echo "$db_host, $db_user, $db_pass, $db_name";
 
 ?>
